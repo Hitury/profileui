@@ -8,7 +8,7 @@ function App() {
 
   return (
     <>
-      <div className="h-screen w-screen bg-neutral-950  after:animate-fade-up after:animation-ease-in-out animate-once">
+      <div className="h-screen w-screen bg-neutral-950 animate-fade-up animation-ease-in-out animate-once">
         <div className="flex justify-center items-center h-full">
           <div className="card bg-neutral-900 p-30 shadow-sm flex justify-center align-center">
             <div className="card-body">
